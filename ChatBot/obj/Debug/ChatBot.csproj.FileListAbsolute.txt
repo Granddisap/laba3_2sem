@@ -1,0 +1,12 @@
+C:\Users\grand\OneDrive\Рабочий стол\ChatBot\bin\Debug\ChatBot.exe.config
+C:\Users\grand\OneDrive\Рабочий стол\ChatBot\bin\Debug\ChatBot.exe
+C:\Users\grand\OneDrive\Рабочий стол\ChatBot\bin\Debug\ChatBot.pdb
+C:\Users\grand\OneDrive\Рабочий стол\ChatBot\obj\Debug\ChatBot.LoginForm.resources
+C:\Users\grand\OneDrive\Рабочий стол\ChatBot\obj\Debug\ChatBot.MainForm.resources
+C:\Users\grand\OneDrive\Рабочий стол\ChatBot\obj\Debug\ChatBot.Properties.Resources.resources
+C:\Users\grand\OneDrive\Рабочий стол\ChatBot\obj\Debug\ChatBot.csproj.GenerateResource.cache
+C:\Users\grand\OneDrive\Рабочий стол\ChatBot\obj\Debug\ChatBot.csproj.CoreCompileInputs.cache
+C:\Users\grand\OneDrive\Рабочий стол\ChatBot\obj\Debug\ChatBot.exe
+C:\Users\grand\OneDrive\Рабочий стол\ChatBot\obj\Debug\ChatBot.pdb
+C:\Users\grand\OneDrive\Рабочий стол\ChatBot\obj\Debug\ChatBot.Help.resources
+C:\Users\grand\OneDrive\Рабочий стол\ChatBot\obj\Debug\ChatBot.csprojAssemblyReference.cache
